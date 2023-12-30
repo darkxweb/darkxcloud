@@ -35,7 +35,7 @@ const Contact: NextPage = () => {
                 <i className="fa fa-envelope" />
               </div>
               <h4>Email</h4>
-              <p>khijendradighore19357@gmail.com</p>
+              <p>khijendradighore03@gmail.com</p>
             </div>
             {/* contact-info-item Ended */}
           </div>
