@@ -29,7 +29,7 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="info-item padd-15">
                       <p>
-                        Website : <span>www.darkxweb.vercel.app</span>
+                        Website : <span>www.darkxcloud.vercel.app</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
@@ -68,7 +68,7 @@ const About: NextPage = () => {
                         Download CV
                       </a>
                       <a
-                        href="#contact"
+                        href="/contact"
                         data-section-index={0}
                         className="btn hire-me"
                       >
@@ -187,7 +187,7 @@ const About: NextPage = () => {
                           </h6>
                           <h4 className="timeline-title">Web Developer</h4>
                           <p className="timeline-text">
-                            <strong>Company Name</strong> - Oasis Infobyte/ InternPe/ Asterisc Technocrat CodeClause<br/><strong>Skills</strong> - Web Development...&nbsp;&nbsp;&nbsp;&nbsp;<strong>Tools</strong> - VSCode
+                            <strong>Company Name</strong> - Oasis Infobyte/ InternPe/ Asterisc Technocrat CodeClause<br/><strong>Skills</strong> - Web Development...&nbsp;&nbsp;&nbsp;&nbsp;<strong><br/>Tools</strong> - VSCode
                           </p>
                         </div>
                         {/* Timeline Item end */}
