@@ -23,10 +23,7 @@ const Certifications: NextPage = () => {
                     Junior Software Developer (QP No. -SSC/Q0508)
                   </h4>
                   <p className="blog-description">
-                    In today digital landscape, responsive web design is not
-                    just a trend; it is a necessity. Explore the principles and
-                    techniques behind creating websites that adapt seamlessly to
-                    various devices and screen sizes.
+                   Gold-certified in NASSCOM's Junior Software Developer Exam, demonstrating excellence in software development.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1LqoqGNx2_inSPAHkdfTXBZGmHXSknixh/view?usp=drive_link" target="blank">Here</a>
@@ -48,10 +45,7 @@ const Certifications: NextPage = () => {
                     Web Developer (QP No. -SSC/Q0503)
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                   Gold Certified Web Developer by NASSCOM, demonstrating excellence in web development.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/131dtixpARx8-8BwvNIoahQ04YYgRr94D/view?usp=drive_link" target="blank">Here</a>
@@ -73,10 +67,7 @@ const Certifications: NextPage = () => {
                     Test Engineer(SSC/Q1301) (QP No. -SSC/Q1301)
                   </h4>
                   <p className="blog-description">
-                    Explore the benefits of incorporating image gallery
-                    lightboxes into your website design. From improved user
-                    experience to showcasing your visual content in style, this
-                    blog post sheds light on this valuable web design feature.
+                    Silver Certified Test Engineer by NASSCOM, demonstrating expertise in software testing.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/19zf_2rTVIr3Q-3bKnmFF95dq6_pCFe0F/view?usp=drive_link" target="blank">Here</a>
@@ -98,10 +89,7 @@ const Certifications: NextPage = () => {
                     Application Developer Web & Mobile (QP No. -SSC/Q8403)
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Gold-certified in NASSCOM's Web & Mobile App Developer Exam, showcasing expertise and dedication in the field.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/13zhbZbH4zEV4hdRcBiIlHXndr0oF-tTf/view?usp=drive_link" target="blank">Here</a>
@@ -123,10 +111,7 @@ const Certifications: NextPage = () => {
                     Usability Design of Software Applications
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in TCS IHC's Usability Design, mastering user-centric software applications.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1trN0ar6BTbbVxNTNCdDrRSGlvkceK1EA/view?usp=drive_link" target="blank">Here</a>
@@ -148,10 +133,7 @@ const Certifications: NextPage = () => {
                     TCS iON Career Edge - Young Professional
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in TCS ION Career Edge - Young Professional, demonstrating dedication to professional growth.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1OlIJsQiVw2VcTbw02kEskMJawuXkO5UA/view?usp=drive_link" target="blank">Here</a>
@@ -173,10 +155,7 @@ const Certifications: NextPage = () => {
                     Google IT Support
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in Google IT Support through TataStrive—a testament to my tech proficiency and dedication.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1t8iNFlCrRYj8FsGHviowt4oNCKnklw1H/view?usp=drive_link" target="blank">Here</a>, <a href="https://drive.google.com/drive/folders/1hwf7eycnRpR3EiwwL7BvL31IJ7i-UQsn?usp=drive_link" target="blank">All</a>
@@ -198,10 +177,7 @@ const Certifications: NextPage = () => {
                     Principles of UI UX Design
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in Principles of UI/UX Design by Meta for a seamless user experience.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1kwKRPAIKYyvgem_8AoymD2F5jQnNhZu8/view?usp=drive_link" target="blank">Here</a>
@@ -223,10 +199,7 @@ const Certifications: NextPage = () => {
                     Programming Fundamentals
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in Programming Fundamentals by Duke University.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1J1VewGc9EIGOb2MFtyo1dgcQ6CDDp9eD/view?usp=drive_link" target="blank">Here</a>
@@ -248,10 +221,7 @@ const Certifications: NextPage = () => {
                     DIGITAL SKILLS: USER EXPERIENCE 
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in User Experience by Accenture for exceptional digital skills.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/18_AqzKvHVNbLsfwB9Ubs-CHEWqVC24Oi/view?usp=drive_link" target="blank">Here</a>
@@ -273,10 +243,7 @@ const Certifications: NextPage = () => {
                     Acquiring Data 
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in Acquiring Data by Accenture, elevating our data-driven capabilities.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1NOIphBf_VJLKU7KNg9rByy1WKAqfcU6l/view?usp=drive_link" target="blank">Here</a>
@@ -298,10 +265,7 @@ const Certifications: NextPage = () => {
                     Introduction to Flutter Course
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in SimpliLearn's Introduction to Flutter Course for proficient mobile app development.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/13R0BCbd9u_E8H-9l0H0JO89iNV9VVsH-/view?usp=drive_link" target="blank">Here</a>
@@ -323,10 +287,7 @@ const Certifications: NextPage = () => {
                     Introduction to Graphic Design; Basics of UI/UX
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in Graphic Design and UI/UX Basics by SimpliLearn.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1Y2F81-D5Opm1W2ztKOMvXjBFZQVEE08H/view?usp=drive_link"target="blank">Here</a>
@@ -349,10 +310,7 @@ const Certifications: NextPage = () => {
                     Trubot Designer
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified TruBot Designer by Datamatics for expert-level RPA proficiency
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/16Ubbw0e982boc3_Drh2oNtYvZsbDYdaf/view?usp=drive_link"target="blank">Here</a>
@@ -374,10 +332,7 @@ const Certifications: NextPage = () => {
                   UI / UX for Beginners
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in UI/UX for Beginners by Great Learning – Crafting seamless digital experiences.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1_lNs55ocfZgIJQT7CYaocv3zTwcKIQx2/view?usp=drive_link"target="blank">Here</a>
@@ -399,10 +354,7 @@ const Certifications: NextPage = () => {
                     Design Thinking for Beginners
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in Design Thinking for Beginners by Great Learning.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1d1GuLv9oD-_uRmRPANCWl7OfU-UuI8gE/view?usp=drive_link"target="blank">Here</a>
@@ -424,10 +376,7 @@ const Certifications: NextPage = () => {
                     Intro to Graphic Design with Photoshop
                   </h4>
                   <p className="blog-description">
-                    Discover innovative ways to create captivating slideshows
-                    that engage your audience. From stunning visuals to seamless
-                    transitions, this blog post explores the art of crafting
-                    memorable slideshows for your website.
+                    Certified in Intro to Graphic Design with Photoshop by Great Learning.
                   </p>
                   <p className="blog-tags">
                     View Certificate: <a href="https://drive.google.com/file/d/1Asoo4h-NQWkDnSLfgJwU-IvuRYGkRDwT/view?usp=drive_link"target="blank">Here</a>

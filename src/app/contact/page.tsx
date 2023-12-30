@@ -25,7 +25,7 @@ const Contact: NextPage = () => {
               <div className="icon">
                 <i className="fa fa-phone" />
               </div>
-              <h4>Call Us On</h4>
+              <h4>Call Me On</h4>
               <p>+91 7666892394</p>
             </div>
             {/* contact-info-item Ended */}
