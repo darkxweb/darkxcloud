@@ -19,8 +19,6 @@ const About: NextPage = () => {
                   </h2>
                   <p>
                   Hi! I'm Khijendra Dighore, a UI/UX Designer with a strong passion and dedication to my work. With 6 months of valuable experience gained through an enriching internship, I have acquired the skills and knowledge necessary to contribute to the success of your project. I thoroughly enjoy every step of the design process, from discussions and collaboration to the final implementation.
-
-
                   </p>
                 </div>
               </div>

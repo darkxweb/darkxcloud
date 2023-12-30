@@ -1,6 +1,6 @@
 'use client';
 
-import { FaSun, FaMoon } from "react-icons/fa";
+import { FaRegSun, FaRegMoon  } from "react-icons/fa";
 import { useTheme } from "next-themes";
 
 const ThemeSwitch = () => {
@@ -14,7 +14,7 @@ const ThemeSwitch = () => {
   return (
     <div className="theme">
       <button onClick={toggleTheme}>
-        {theme === "light" ? <FaSun /> : <FaMoon />}
+        {theme === "light" ? <FaRegSun /> : <FaRegMoon />}
       </button>
     </div>
   );
