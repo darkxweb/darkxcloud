@@ -1161,7 +1161,7 @@ select {
   .about .about-content .personal-info .info-item p span {
     display:block;
     margin-left: 0;
-    overflow: auto;
+    overflow: clip;
 
   }
 }
