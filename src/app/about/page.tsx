@@ -26,9 +26,9 @@ const About: NextPage = () => {
                 <div className="personal-info padd-15">
                   <div className="row">
                     <div className="info-item padd-15">
-                      <p>
+                      {/* <p>
                         Website : <span>darkxcloud.vercel.app</span>
-                      </p>
+                      </p> */}
                     </div>
                     <div className="info-item padd-15">
                       <p>
